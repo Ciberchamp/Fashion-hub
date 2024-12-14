@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e5d9e37-d4b8-43ce-9b2d-e79d86d8a111)# Versa Laurent
+# Versa Laurent
 A J2EE Based Fashion website. This repository showcases a dynamic and scalable e-commerce website for fashion enthusiasts, developed using the Java  Enterprise Edition (J2EE) framework.
 
 
